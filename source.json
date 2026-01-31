@@ -1,21 +1,35 @@
 {
-  "name": "SwitchROM",
+  "name": "MultiPlatform Games",
   "version": 1,
   "games": [
     {
-      "id": "animal-crossing",
+      "id": "animal-crossing-switch",
       "title": "Animal Crossing: New Horizons",
       "platform": "switch",
       "downloadOptions": [
         {
-          "name": "Téléchargement principal",
+          "name": "Switch - NSP/XCI",
           "uris": [
             "https://datanodes.to/9zrbr77vh430/Animal_Crossing-SteamGG.NET.zip",
-            "https://akirabox.com/0rpmvQgwGRgZ/file",
-            "https://buzzheavier.com/6a6m187i4ybk"
+            "https://akirabox.com/0rpmvQgwGRgZ/file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gta5-pc",
+      "title": "GTA V",
+      "platform": "pc",
+      "downloadOptions": [
+        {
+          "name": "PC - Version complète",
+          "uris": [
+            "https://exemple.com/gta5_part1.zip",
+            "https://exemple.com/gta5_part2.zip"
           ]
         }
       ]
     }
   ]
 }
+
