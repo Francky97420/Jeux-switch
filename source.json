@@ -4,12 +4,12 @@
   "games": [
     {
       "id": "animal-crossing",
-      "title": "Animal Crossing : New Horizon",
+      "title": "Animal Crossing: New Horizons",
       "platform": "switch",
-      "downloads": [
+      "downloadOptions": [
         {
-          "label": "Téléchargement",
-          "urls": [
+          "name": "Téléchargement principal",
+          "uris": [
             "https://datanodes.to/9zrbr77vh430/Animal_Crossing-SteamGG.NET.zip",
             "https://akirabox.com/0rpmvQgwGRgZ/file",
             "https://buzzheavier.com/6a6m187i4ybk"
